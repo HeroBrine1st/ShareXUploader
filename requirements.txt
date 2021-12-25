@@ -1,0 +1,10 @@
+uvicorn
+fastapi
+pydantic
+tortoise-orm
+aerich
+aiomysql
+starlette
+python_dotenv
+python-multipart
+aiofile
